@@ -1,4 +1,4 @@
-@Library('github.com/devops-genuine/shared-jenkins-library@master') _
+@Library('github.com/topzerzar/shared-jenkins-library@master') _
 
 pipeline {
     agent { label "master" }
